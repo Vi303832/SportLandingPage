@@ -17,8 +17,8 @@ const Navbar = () => {
                     <a href="#features" className="text-white text-sm lg:text-base hover:text-gray-300">FEATURES</a>
                 </div>
 
-                <button className="bg-[#E94F37] text-white px-4 lg:px-10 py-2 lg:py-5 text-sm lg:text-base flex items-center gap-2 hover:bg-[#d64632]">
-                    <FaCircle className="hidden lg:block" />
+                <button className="bg-[#E94F37] text-white left-2 relative w-56 justify-center  py-5 text-sm lg:text-base flex items-center gap-2 hover:bg-[#d64632]">
+                    <FaCircle />
                     ORDER NOW
                 </button>
             </div>
